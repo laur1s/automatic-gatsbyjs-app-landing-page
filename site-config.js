@@ -1,26 +1,26 @@
 module.exports = {
   // App Info
-  appstore_link         : "https://imedadel.me",                                  // Enter App Store URL.
-  playstore_link        : "https://imedadel.me",                                  // Enter Google Play Store URL.
+  appstore_link         : "https://hea.lt",                                  // Enter App Store URL.
+  playstore_link        : "https://hea.lt",                                  // Enter Google Play Store URL.
   google_analytics_ID   : "UA-47311644-5",                                        // Enter Google Analytics ID or ""
-  presskit_download_link: "https://imedadel.me",                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+  presskit_download_link: null,                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
   video_or_screenshot   : "screenshot",                                           // "screenshot" or "video"
-  app_url               : "https://agalp.imedadel.me",                            // Domain of your website without path_prefix.
+  app_url               : "https://hea.lt",                            // Domain of your website without path_prefix.
   path_prefix           : "/",                                                    // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
-  app_name              : "AGALP",
+  app_name              : "Hea.lt",
   app_price             : "Free",
-  app_description       : "Automatically generate GatsbyJS app landing pages.",
+  app_description       : "Register to see a doctor. Fast.",
   app_keywords          : ["automatic", "gatsbyjs", "app", "landing page"],
 
   // Personal Info
-  your_name              : "Imed Adel",
-  your_link              : "https://imedadel.me",
-  your_city              : "Sousse",
-  email_address          : "hello@imedadel.me",
+  your_name              : "Hea.lt",
+  your_link              : "https://hea.lt",
+  your_city              : "Vilnius",
+  email_address          : "hello@hea.lt",
   facebook_username      : null,
-  instagram_username     : "ed_adel",
-  twitter_username       : "Imed_Adel",
-  github_username        : "ImedAdel",
+  instagram_username     : null,
+  twitter_username       : null,
+  github_username        : null,
   youtube_username       : null,
 
   // Features List
