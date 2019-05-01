@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: urljoin(configs.app_url, configs.path_prefix),
     title: configs.app_name,
     description: configs.app_description,
-    author: configs.twitter_username,
+    author: "laurynas",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
